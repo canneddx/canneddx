@@ -47,12 +47,12 @@
     <h2>
       <img src="https://i.imgur.com/dvtdiLI.png" alt="Image">
         <div align="left">
-          <h1>
+          <h5>
           <p>
             <b>Это моя работа</b>
           </p>
         </div>
-          </h1>
+          </h5>
     </h2>
   </p>
 </div>
