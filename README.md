@@ -19,3 +19,6 @@
     <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте">
   </a>
 </p>
+
+<div alighn="left">
+<h2><b>Моя основная работа это разработка скриптов и программирование на Python </b></h2>
