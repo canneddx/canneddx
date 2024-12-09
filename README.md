@@ -46,6 +46,7 @@
   <p>
     <h2>
       <img src="https://i.imgur.com/dvtdiLI.png" alt="Image">
+          </h2>
         <div align="left">
           <h5>
           <p>
@@ -53,7 +54,6 @@
           </p>
         </div>
           </h5>
-    </h2>
   </p>
 </div>
 
