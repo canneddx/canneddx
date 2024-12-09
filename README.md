@@ -46,9 +46,17 @@
   <p>
     <h2>
       <img src="https://i.imgur.com/dvtdiLI.png" alt="Image">
+        <div align="left">
+          <p>
+            <b>Это моя работа</b>
+          </p>
+        </div>
     </h2>
   </p>
 </div>
+
+
+
 
 
 
