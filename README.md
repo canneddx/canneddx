@@ -33,7 +33,7 @@
   </p>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
   <p>
@@ -52,8 +52,6 @@
 
 <hr> 
 
-<br>
-
 <div align="center">
   <h2><b>Так же у меня есть разработка в сфере Telegram Bots</b></h2>
   <img src="https://i.imgur.com/Imugy4o.png" alt="Image">
@@ -62,7 +60,11 @@
     </div>
 </div>
 
-  <p align="center">
+<hr>
+
+<div align="center">
+  <h2><b>Дальше больше</b></h2>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/281847490923998840/4D5F477F9C953EB4253119CE9473189ED079A6ED/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" alt="GIF">
-  </p>
+</div>
+<hr>
 
