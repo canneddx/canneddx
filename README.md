@@ -1,3 +1,5 @@
+<hr>
+
 <div align="center">
   <h2><b>❄️ Привет! ❄️</b></h2>
 </div>
