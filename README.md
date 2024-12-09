@@ -46,14 +46,12 @@
   <p>
     <h2>
       <img src="https://i.imgur.com/dvtdiLI.png" alt="Image">
-          </h2>
         <div align="left">
-          <h5>
           <p>
-            <b>Это моя работа</b>
+            <b><h5>Это моя работа</h5></b>
           </p>
         </div>
-          </h5>
+      </h2>
   </p>
 </div>
 
