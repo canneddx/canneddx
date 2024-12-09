@@ -45,9 +45,11 @@
 <div align="center">
   <p>
     <h2>
-      <img src="https://i.imgur.com/dvtdiLI.png>
+      <img src="https://i.imgur.com/dvtdiLI.png" alt="Image">
     </h2>
   </p>
+</div>
+
 
 
 
