@@ -1,5 +1,6 @@
-# Привет! 👋
-Меня зовут **JuniorCodeos**, я разработчик обходов для различных платформ. 
+<p align="center">
+<div># Привет! 👋</div>
+Меня зовут **JuniorCodeos**, я разработчик обходов для различных платформ.
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/958603887331757558/D1E9FAB08630AFD6CB06EE7B719338B00BCEACBC/?imw=512&imh=219&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Example GIF">
