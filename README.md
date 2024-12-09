@@ -20,5 +20,12 @@
   </a>
 </p>
 
-<div alighn="left">
-<h2><b>Моя основная работа это разработка скриптов и программирование на Python </b></h2>
+<div align="left">
+  <h2>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align: middle;">
+    <b>Моя основная работа это разработка скриптов и программирование на Python</b>
+  </h2>
+</div>
+
+
+
