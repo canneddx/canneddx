@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>👋 Привет! 👋</b></h2>
+  <h2><b> Привет! 👋</b></h2>
 </div>
 
 
@@ -41,6 +41,13 @@
     </h2>
   </p>
 </div>
+
+<div align="center">
+  <p>
+    <h2>
+      <img src="https://i.imgur.com/dvtdiLI.png>
+    </h2>
+  </p>
 
 
 
