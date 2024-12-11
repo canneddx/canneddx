@@ -90,3 +90,6 @@
 </div>
 <hr>
 
+<div align="right">
+  <p><h5>made in canneddx</h5></p>
+</div>
