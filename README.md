@@ -1,8 +1,14 @@
-<hr>
-
-<div align="center">
-  <h2><b>❄️ Привет! ❄️</b></h2>
+<div align="center" style="margin: 0; padding: 0; border: none;">
+  <h2>
+    <img src="https://s5.ezgif.com/tmp/ezgif-5-7c5a48191a.gif" alt="GIF" style="width: 1100px; height: 200px; margin-top: 6;">
+    <p align="center" style="width: 200px; height: 30px; font-size: 6px; margin-bottom: 0;">❄️ Привет! ❄️</p>
+    <div style="margin: 0; padding: 0; display: inline-block;">
+      <img src="https://content.foto.my.mail.ru/mail/skoros.t.b/_animated/i-44150.gif" alt="GIF2" style="width: 1000px; height: 100px; margin-top: 6;">
+    </div>
+  </h2>
 </div>
+
+
 
 <div>
     <h3><b>Меня зовут <a href="https://hipolink.me/juniorcodeos" target="_blank">JuniorCodeos</a>, я разработчик обходов для различных платформ.</b></h3>
@@ -59,13 +65,15 @@
 <hr>
 
 <div align="center">
-  <h3><p>Мои основные языки программирования — Python <img src="https://repository-images.githubusercontent.com/386598181/99b6a4fc-4aee-4bfb-a5b6-d1c294a6d12c">Этот язык я использую для написания почти 90% своих проектов. Мне нравится Python, потому что он универсален. Я использую его как для разработки игр, так и для работы в Front-end. Также пишу программы для Windows и других платформ. В общем, Python помогает мне делать многое благодаря огромному количеству полезных библиотек.</p></h3>
+  <h3><p>Мои основные языки программирования — Python <br><br>Этот язык я использую для написания почти 90% своих проектов. Мне нравится Python, потому что он универсален. Я использую его как для разработки игр, так и для работы в Front-end. Также пишу программы для Windows и других платформ. В общем, Python помогает мне делать многое благодаря огромному количеству полезных библиотек.</p></h3>
+  <img src="https://cdn.dribbble.com/users/86357/screenshots/1879810/sb_dribbble.gif"> 
 </div>
 
 <hr>
 
 <div align="center">
-  <h3><p> C# <img src="https://user-images.githubusercontent.com/37851168/111392416-8a5ba900-8684-11eb-8c90-bfd7aeca9517.png">Язык программирования, обладающий более широкими возможностями в среде Windows, а также обеспечивающий гибкое управление памятью, является моим основным инструментом для решения задач, связанных с компонентами и драйверами различных программ.</p></h3>
+  <h3><p> C# <br><br>Язык программирования, обладающий более широкими возможностями в среде Windows, а также обеспечивающий гибкое управление памятью, является моим основным инструментом для решения задач, связанных с компонентами и драйверами различных программ.</p></h3>
+    <img src="https://i.pinimg.com/originals/46/4a/9f/464a9f911e9fa854c2f76337d72c46c7.gif">
 </div>
 
 <hr>
