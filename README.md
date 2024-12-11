@@ -1,6 +1,6 @@
 <div align="center" style="margin: 0; padding: 0; border: none;">
   <h2>
-    <img src="https://s5.ezgif.com/tmp/ezgif-5-7c5a48191a.gif" alt="GIF" style="width: 1100px; height: 200px; margin-top: 6;">
+    <img src="https://content.foto.my.mail.ru/mail/skoros.t.b/_animated/i-44150.gif" alt="GIF2" style="width: 1000px; height: 100px; margin-top: 6;">
     <p align="center" style="width: 200px; height: 30px; font-size: 6px; margin-bottom: 0;">❄️ Привет! ❄️</p>
     <div style="margin: 0; padding: 0; display: inline-block;">
       <img src="https://content.foto.my.mail.ru/mail/skoros.t.b/_animated/i-44150.gif" alt="GIF2" style="width: 1000px; height: 100px; margin-top: 6;">
