@@ -78,7 +78,7 @@
 
 <div align="center">
   <h2><b>Дальше больше</b></h2>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/281847490923998840/4D5F477F9C953EB4253119CE9473189ED079A6ED/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="GIF">
+  <img src="https://i.pinimg.com/originals/ce/88/46/ce88462b4a769a5b38e1b75ae175b3f6.gif" alt="GIF">
 </div>
 <hr>
 
