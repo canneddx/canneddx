@@ -71,7 +71,7 @@
 <hr>
 
 <div align="center">
-  <h3><p>1C <img src="https://nevapos.ru/upload/iblock/57b/ez0xna3xk36tg11i0cvh7gsa2m2o7n7e/1s_roznitsa_8_magazin_odezhdy_i_obuvi.png">Использую для создания баз данных и управления бухгалтерским учетом, работой с фирмами и другими задачами.</p></h3>
+  <h3><p>1C <img src="https://rb.asu.ru/public/uploads/1572321778_s1200.png">Использую для создания баз данных и управления бухгалтерским учетом, работой с фирмами и другими задачами.</p></h3>
 </div>
 
 <hr>
