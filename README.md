@@ -1,14 +1,8 @@
-<div align="center" style="margin: 0; padding: 0; border: none;">
+<div align="center">
   <h2>
-    <img src="https://content.foto.my.mail.ru/mail/skoros.t.b/_animated/i-44150.gif" alt="GIF2" style="width: 1000px; height: 100px; margin-top: 6;">
-    <p align="center" style="width: 200px; height: 30px; font-size: 6px; margin-bottom: 0;">❄️ Привет! ❄️</p>
-    <div style="margin: 0; padding: 0; display: inline-block;">
-      <img src="https://content.foto.my.mail.ru/mail/skoros.t.b/_animated/i-44150.gif" alt="GIF2" style="width: 1000px; height: 100px; margin-top: 6;">
-    </div>
+    <b>❄️ Привет! ❄️</b>
   </h2>
 </div>
-
-
 
 <div>
     <h3><b>Меня зовут <a href="https://hipolink.me/juniorcodeos" target="_blank">JuniorCodeos</a>, я разработчик обходов для различных платформ.</b></h3>
